@@ -1,0 +1,16 @@
+{
+  "name": "file_based_task_manager",
+  "version": "1.0.0",
+  "description": "Challenge 1 for NODE JS Section 1 is a file based task manager for managing tasks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Randy (Joshua)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
